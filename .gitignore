@@ -1,0 +1,26 @@
+# Dependências
+node_modules/
+package-lock.json
+
+# Dados e uploads
+data/
+uploads/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ambiente
+.env
+.env.local
+
