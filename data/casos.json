@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "numero": "001",
+    "dataAbertura": "2025-08-12",
+    "requerente": "yasmin",
+    "cpfCnpj": "876.989.837-78",
+    "status": "em_analise",
+    "prioridade": "urgente",
+    "descricao": "agressão!",
+    "createdAt": "2025-12-09T00:25:39.754Z",
+    "createdBy": 1
+  }
+]

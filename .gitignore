@@ -3,8 +3,7 @@ node_modules/
 package-lock.json
 
 # Dados e uploads
-data/
-uploads/
+
 
 # Logs
 *.log

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "$2a$10$tkS4N/M78o4kpDw/UFVUqObY076BYxQMDj2Wmg86JOVpmkq/TUDQu",
+    "nomeCompleto": "Administrador",
+    "telefone": "(00) 00000-0000",
+    "foto": "",
+    "role": "admin",
+    "createdAt": "2025-12-09T00:20:39.491Z"
+  },
+  {
+    "id": 2,
+    "username": "joao",
+    "password": "$2a$10$AXUkFnZFhC8LTpXDk3OgDuHEjZwX9dItyI3RDEFB7AqBiIwwJWQk.",
+    "nomeCompleto": "joao lucas ribeiro feitosa",
+    "telefone": "88984632627",
+    "foto": "",
+    "role": "user",
+    "createdAt": "2025-12-09T00:52:40.181Z"
+  }
+]
